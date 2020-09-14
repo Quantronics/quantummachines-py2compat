@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: py2compatclient
+Version: 0.0.1
+Summary: Compatibility layer to start python 3 processes and execute QUA programs
+Home-page: https://quantum-machines.co
+Author: Tal Shani
+Author-email: tal@quantum-machines.co
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Operating System :: OS Independent
